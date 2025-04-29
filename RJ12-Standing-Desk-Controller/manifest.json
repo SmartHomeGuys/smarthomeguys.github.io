@@ -1,11 +1,11 @@
 {
-  "name": "Office Desk Controller",
+  "name": "Standing Desk Controller",
   "builds": [
     {
-      "chipFamily": "ESP32S3",
+      "chipFamily": "ESP32-S3",
       "parts": [
         { 
-          "path": "firmware/office-desk-controller.factory.bin", 
+          "path": "firmware/standing-desk-controller.factory.bin", 
           "offset": 0 
         }
       ]
