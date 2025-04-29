@@ -1,6 +1,5 @@
 {
   "name": "Office Desk Controller",
-  "chipFamily": "ESP32",
   "builds": [
     {
       "chipFamily": "ESP32",
@@ -8,7 +7,7 @@
         { 
           "path": "firmware/office-desk-controller.factory.bin", 
           "offset": 0 
-        },
+        }
       ]
     }
   ]
