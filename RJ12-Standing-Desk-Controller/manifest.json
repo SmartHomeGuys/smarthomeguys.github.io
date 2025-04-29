@@ -2,7 +2,7 @@
   "name": "Office Desk Controller",
   "builds": [
     {
-      "chipFamily": "ESP32",
+      "chipFamily": "ESP32-S3",
       "parts": [
         { 
           "path": "firmware/office-desk-controller.factory.bin", 
