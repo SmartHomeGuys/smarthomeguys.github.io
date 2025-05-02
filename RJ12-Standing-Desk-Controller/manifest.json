@@ -1,6 +1,6 @@
 {
   "name": "Standing Desk Controller",
-  "version": "2.0.0.1",
+  "version": "2025.5.0",
   "home_assistant_domain": "esphome",
   "new_install_skip_erase": false,
   "builds": [
