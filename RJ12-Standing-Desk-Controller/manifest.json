@@ -1,6 +1,6 @@
 {
   "name": "Standing Desk Controller",
-  "version": "2025.5.0",
+  "version": "2025.5.1",
   "home_assistant_domain": "esphome",
   "new_install_skip_erase": false,
   "builds": [
@@ -11,7 +11,12 @@
           "path": "firmware/standing-desk-controller.factory.bin", 
           "offset": 0 
         }
-      ]
+      ],
+      "ota": 
+        {
+          "md5": "12345",
+          "path": "firmware/standing-desk-controller.ota.bin"
+        }
     }
   ]
 }
