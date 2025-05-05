@@ -17,7 +17,7 @@
           "md5": "1e79b4b908d1d1235da7009a2445696f",
           "path": "firmware/deskup-pro-controller.ota.bin",
           "release_url": "http://example.com/releases/1",
-          "summary": "Another update"
+          "summary": "Fixes the slider which intermitanly didn't work sometimes a few presses were needed for it to move the desk;line 2"
         }
     }
   ]
