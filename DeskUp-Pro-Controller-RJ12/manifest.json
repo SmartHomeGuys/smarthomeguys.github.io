@@ -1,6 +1,6 @@
 {
   "name": "DeskUp Pro Controller",
-  "version": "2025.6.1",
+  "version": "2025.6.2",
   "home_assistant_domain": "esphome",
   "new_install_skip_erase": false,
   "builds": [
@@ -8,14 +8,14 @@
       "chipFamily": "ESP32-S3",
       "parts": [
         { 
-          "path": "firmware/deskup-pro-controller.factory.bin", 
+          "path": "firmware/deskup-pro.factory.bin", 
           "offset": 0 
         }
       ],
       "ota": 
         {
-          "md5": "50ad29ba0a130f955601d5531b94d071",
-          "path": "firmware/deskup-pro-controller.ota.bin",
+          "md5": "dbcde2d6721060f90edb28a57e34687a",
+          "path": "firmware/deskup-pro.ota.bin",
           "release_url": "https://github.com/SmartHomeGuys/DeskUp-Pro-Controller-RJ12/blob/main/CHANGELOG.md",
           "summary": ""
         }
