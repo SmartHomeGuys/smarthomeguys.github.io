@@ -14,7 +14,7 @@
       ],
       "ota": 
         {
-          "md5": "todo",
+          "md5": "4c5f4a44475da2881afc21f8e5a85b70",
           "path": "firmware/bluetooth-proxy.ota.bin",
           "release_url": "https://github.com/SmartHomeGuys/Bluetooth-Proxy/blob/main/CHANGELOG.md",
           "summary": ""
